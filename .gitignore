@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+config.php
+*.log
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
